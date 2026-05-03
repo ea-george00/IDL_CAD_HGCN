@@ -1,0 +1,2 @@
+{in_dim: 1, image_size: 100, patch_size: 5, masking_ratio: 0.75, encoder_dim: 256,
+  encoder_depth: 6, encoder_heads: 8, decoder_dim: 128, decoder_depth: 4, decoder_heads: 8}

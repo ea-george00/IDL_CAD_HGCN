@@ -1,0 +1,4 @@
+optim_name: Adam
+optim_config: {lr: 0.001}
+n_epochs: 50
+batch_size: 64

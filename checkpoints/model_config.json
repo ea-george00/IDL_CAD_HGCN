@@ -1,0 +1,8 @@
+{
+  "face_in": 12,
+  "facet_in": 4,
+  "hidden_dim": 128,
+  "num_classes": 25,
+  "num_layers": 3,
+  "arch": "hierarchical"
+}
